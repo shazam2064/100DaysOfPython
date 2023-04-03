@@ -2,6 +2,7 @@ import turtle as t
 import random
 
 tim = t.Turtle()
+tim.speed(10)
 t.colormode(255)
 
 
